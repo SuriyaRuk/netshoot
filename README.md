@@ -1,3 +1,5 @@
+## kube
+k run --rm -it --image=nicolaka/netshoot bash
 ## netshoot: a Docker + Kubernetes network trouble-shooting swiss-army container
 
 ```
